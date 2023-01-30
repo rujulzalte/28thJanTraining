@@ -6,6 +6,3 @@ def feature1():
      print("new line")
      print("this is a new feature")
      return None
-
-def feature2():
-     print("new feature")
